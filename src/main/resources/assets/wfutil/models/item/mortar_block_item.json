@@ -1,0 +1,17 @@
+{
+  "parent": "wfutil:block/mortar_dontload",
+  "display": {
+    "gui": {
+      "rotation": [
+        30,
+        30,
+        0
+      ],
+      "scale": [
+        0.9,
+        0.9,
+        0.9
+      ]
+    }
+  }
+}

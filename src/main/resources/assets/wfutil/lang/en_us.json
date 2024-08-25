@@ -1,0 +1,11 @@
+{
+  "block.wfutil.mortar": "Mortar",
+  "block.wfutil.landmine": "Landmine",
+
+  "item.wfutil.landmine": "Landmine",
+  "item.wfutil.soldier_spawn_egg": "Soldier Spawn Egg",
+
+  "entity.wfutil.soldier": "Soldier",
+
+  "itemGroup.wfutil": "Warfare Utils"
+}

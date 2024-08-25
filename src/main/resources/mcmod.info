@@ -1,0 +1,16 @@
+[
+	{
+		"modid": "wfutil",
+		"name": "WarfareUtils",
+		"description": "",
+		"version": "${version}",
+		"mcversion": "1.16.x",
+		"url": "",
+		"updateUrl": "",
+		"authorList": ["zlovro"],
+		"credits": "",
+		"logoFile": "",
+		"screenshots": [],
+		"dependencies": []
+	}
+]

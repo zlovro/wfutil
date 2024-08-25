@@ -1,0 +1,5 @@
+/run/
+/run-data/
+/build/
+/.gradle/
+/.idea/runConfigurations/

@@ -1,0 +1,28 @@
+157:Mali Banovac
+201:Batinjani
+153:Klisa
+166:Dobrovac
+231:Gornja Subocka
+215:Subocka
+59:Donja Subocka
+165:Lipik
+6:Donji Čaglić
+199:Filipovac
+130:Novi Majur
+102:Gornja Obrijež
+250:Stari Majur
+60:Prekopakra
+253:Skenderovci
+228:Bukovčani
+186:Grabar
+154:Pakrac
+155:Japaga
+73:Gavrinica
+227:Kusonje
+137:Gornji Čaglić
+116:Šeovica
+245:Kraguj
+68:Ivanovac
+200:Brusnik
+21:Dragović
+106:Čaklovec

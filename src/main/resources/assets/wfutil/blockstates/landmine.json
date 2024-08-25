@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "buried=false": {
+      "model": "wfutil:block/landmine"
+    },
+    "buried=true": {
+      "model": "minecraft:block/air"
+    }
+  }
+}
